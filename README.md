@@ -12,17 +12,15 @@ E1 Trigger - Trigger ungleich 0 startet die Abfrage
 
 E2 API KEY - Hier muss der API Key eingetragen werden.
 
-
 ## Ausgänge
 
-A1 Einsatzalarm	- An diesem Ausgang liegt eine 1 an wenn ein Alarm anliegt.
+A1 Einsatzalarm - An diesem Ausgang liegt eine 1 an wenn ein Alarm anliegt.
 
 A1 Stichwort - An diesem Ausgang wird das Stichwort ausgegeben wenn ein Alarm anliegt.
 
 A1 Meldung - An diesem Ausgang wird die Meldung ausgegeben wenn ein Alarm anliegt.
 
-A1 Datum/Uhrzeit	
-An diesem Ausgang wird Dazum/Uhrzeit ausgegeben wenn ein Alarm anliegt.
+A1 Datum/Uhrzeit - An diesem Ausgang wird Dazum/Uhrzeit ausgegeben wenn ein Alarm anliegt.
 
 A1 Adresse - An diesem Ausgang wird die Adresse ausgegeben wenn ein Alarm anliegt.
 
