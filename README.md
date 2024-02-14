@@ -4,7 +4,7 @@ Der Logikbaustein ruft über die API von Divera in Verbindung mit dem API Key ak
 Link zur Divera API Dokumentation: https://api.divera247.com/?urls.primaryName=api%2Fv1#/E
 
 Achtung
-Hinweis: Der Intervall zum Triggern des Bausteins sollte nicht zu klein sein um des Gira X1 nicht zu überlasten. Ein Intervall von 20-30 Sekunden ist sinnvoll.
+Hinweis: Der Intervall zum Triggern des Bausteins sollte nicht zu klein sein um den Gira X1 nicht zu überlasten. Ein Intervall von 20-30 Sekunden ist sinnvoll.
 
 ## Eingänge
 
