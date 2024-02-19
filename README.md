@@ -16,16 +16,16 @@ E2 API KEY - Hier muss der API Key eingetragen werden.
 
 A1 Einsatzalarm - An diesem Ausgang liegt eine 1 an wenn ein Alarm anliegt.
 
-A1 Stichwort - An diesem Ausgang wird das Stichwort ausgegeben wenn ein Alarm anliegt.
+A2 Stichwort - An diesem Ausgang wird das Stichwort ausgegeben wenn ein Alarm anliegt.
 
-A1 Meldung - An diesem Ausgang wird die Meldung ausgegeben wenn ein Alarm anliegt.
+A3 Meldung - An diesem Ausgang wird die Meldung ausgegeben wenn ein Alarm anliegt.
 
-A1 Datum/Uhrzeit - An diesem Ausgang wird Dazum/Uhrzeit ausgegeben wenn ein Alarm anliegt.
+A4 Datum/Uhrzeit - An diesem Ausgang wird Dazum/Uhrzeit ausgegeben wenn ein Alarm anliegt.
 
-A1 Adresse - An diesem Ausgang wird die Adresse ausgegeben wenn ein Alarm anliegt.
+A5 Adresse - An diesem Ausgang wird die Adresse ausgegeben wenn ein Alarm anliegt.
 
-A1 Sonderrechte - An diesem Ausgang wird eine 1 ausgegeben wenn Sonderrechte konfiguriertwurden.
+A6 Sonderrechte - An diesem Ausgang wird eine 1 ausgegeben wenn Sonderrechte konfiguriertwurden.
 
-A1 Einsatznummer - An diesem Ausgang wird die Einsatznummer von Divera ausgegeben wenn ein Alarm anliegt.
+A7 Einsatznummer - An diesem Ausgang wird die Einsatznummer von Divera ausgegeben wenn ein Alarm anliegt.
 
-A1 Impulsausgang - An diesem Ausgang wird ein Impuls (1) von einer Sekunde ausgegeben wenn ein Alarm anliegt.
+A8 Impulsausgang - An diesem Ausgang wird ein Impuls (1) von einer Sekunde ausgegeben wenn ein Alarm anliegt.
